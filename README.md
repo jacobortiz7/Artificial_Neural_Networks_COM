@@ -1,8 +1,9 @@
 # Artificial_Neural_Networks_COM
-Train NeuralNetwork using Artificial Bee Colony heuristic with technology Component Object Model
+Train a NeuralNetwork using Artificial Bee Colony heuristic with component object model technology 
 
 Autonomous University of Nuevo Leon
-
+jacob.ortizescb@uanl.edu.mx
+jacob.ortiz@gmail.com
 Thesis project - Artificial Bee Colony Neural Network
 
 Component Object Model C++
